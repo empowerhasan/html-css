@@ -1,0 +1,6 @@
+MEDIA QUERY
+
+Create condition using browser resoulation
+class inside condition
+class work when condition ture
+
